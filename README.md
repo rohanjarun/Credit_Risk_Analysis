@@ -16,4 +16,5 @@ Credit risk is an inherently unbalanced classification problem, as good loans ea
 ### Under Sampling (ClusterCentroids)
 ![Undersampling](Images/UnderSampling.png)
 
-
+## Summary
+In order to figure out which models are good at predicting high risk credit id if the accuracy score is high. (70+) If it is below 70 then it doesn't have a good accuracy score. EEC would be considered the best in this scenario. 
