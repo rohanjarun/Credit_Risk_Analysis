@@ -6,14 +6,14 @@ Credit risk is an inherently unbalanced classification problem, as good loans ea
 ### Balanced Random Forest Classifier
 ![BRFensemble](Images/BRF.png)
 ### Easy Ensemble Classifier
-
+![EEC](Images/EEC.png)
 ### Random Over Sampler
-
+![RandomOverSampling](Images/RandomOverSampling.png)
 ### SMOTE Over Sampling
-
-### SMOTEENN
-
+![SMOTE](Images/SMOTE.png)
+### SMOTEEN
+![BRFensemble](Images/SMOTEEN.png)
 ### Under Sampling (ClusterCentroids)
-
+![Undersampling](Images/UnderSampling.png)
 
 
